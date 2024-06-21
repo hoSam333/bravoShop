@@ -1,0 +1,25 @@
+.Favorite .one{
+    background-color: var(--section-bg);
+    color: var(--section-color);
+}
+.Favorite .one img{
+    width: 200px;
+    height: 200px;
+}
+.Favorite .one strong{
+    color: var(--main-color);
+    font-size: 25px;
+}
+.Favorite .one b{
+    font-size: 23px ;
+}
+.Favorite .one i{
+    background-color: var(--main-color);
+    color: #fff;
+    padding: 10px 8px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.Favorite .one i:last-of-type{
+    background-color: red;
+}

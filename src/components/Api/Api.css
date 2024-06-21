@@ -1,0 +1,55 @@
+.api{
+    transition: 0.5s;
+    color: var(--section-color);
+}
+.one{
+    transition: 0.5s;
+    background-color: var(--section-bg);
+    color: var(--section-color);
+}
+.api .h1{
+    color: var(--main-color);
+}
+
+
+
+
+
+.proces i{
+    padding: 10px 8px ;
+    color: #fff;
+    background-color: var(--main-color);
+    border-radius: 3px;
+    cursor: pointer;
+}
+.pro_img{
+    transition: 0.5s;
+    background-color: var(--section-bg);
+    color: var(--section-color);
+    height: 400px;
+}
+.pro_details{
+    transition: 0.5s;
+    background-color: var(--section-bg);
+    color: var(--section-color);
+    min-height: 400px;
+}
+.pro_details b{
+    color: var(--main-color);
+}
+.pro_details div i{
+    color: var(--main-color);
+}
+.pro_details h5{
+    color: green;
+}
+.pro_details button{
+    background-color: var(--main-color);
+    border-color:var(--main-color) ;
+    padding:10px  15px ;
+    width: 200px;
+}
+.pro_details button:hover{
+    background-color: #919116;
+    border-color:var(--main-color) ;
+}

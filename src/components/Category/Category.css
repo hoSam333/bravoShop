@@ -1,0 +1,8 @@
+.Category .h2 {
+    color:  var(--main-color);
+}
+.Category .one{
+    transition: 0.5s;
+    background-color: var(--section-bg);
+    color: var(--section-color);
+}
