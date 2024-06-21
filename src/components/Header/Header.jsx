@@ -45,7 +45,7 @@ function Header() {
 
 
           <div className="col-lg-8 col-sm-12">
-            <Slider {...settings} className='slider'>
+            <Slider {...settings} className='slidee'>
 
               <div className='men'>
                 <div>
