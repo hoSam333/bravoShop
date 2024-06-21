@@ -41,7 +41,7 @@ function Header() {
     <div className='Header container my-5'>
 
 
-      <div className="row gx-5">
+      <div className="row g-5">
 
 
           <div className="col-lg-8 col-sm-12">
