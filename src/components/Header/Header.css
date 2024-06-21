@@ -1,4 +1,4 @@
-.slider{
+.slidee{
     height: 50vh;
     margin-top: -33px;
 }
@@ -39,14 +39,14 @@
     padding: 0 50px;
     text-align: center;
 }
-.slider b{
+.slidee b{
     font-size: 30px;
 }
-.slider p{
+.slidee p{
     font-weight: 500;
     font-size: 20px;
 }
-.slider button{
+.slidee button{
     padding: 10px 20px ;
     background-color: transparent;
     color: #fff;
@@ -54,7 +54,7 @@
     font-size: 18px;
     transition: 0.5s;
 }
-.slider button:hover{
+.slidee button:hover{
     background-color: var(--main-color);
 }
 
